@@ -7,9 +7,9 @@
 }
 
 body{
-  background: url(bg.png) no-repeat center;
+  background: url(back1.gif) no-repeat center;
   background-size: cover;
-  min-height: 100vh;
+  height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -25,11 +25,11 @@ body{
 }
 
 .image, .accordion-menu{
-  width: calc(50% - 20px);
+  width: 39%;
 }
 
 .title{
-  background-color: #ffff02c5;
+  background-color: #54fec2;
   display: flex;
   color: rgb(0, 0, 0);
   padding: 20px;
