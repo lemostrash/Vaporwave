@@ -3,4 +3,5 @@
  <h2 align="center">VAPORWAVE PORT</h2>
  <p align="center">Uma peça de um grande quebra cabeça!</p>
 
-![Vaporwave](https://media1.giphy.com/media/vPGs4RBNX110moyrz8/giphy.gif)
+
+<img witdh="400px" height="500px" src="https://media1.giphy.com/media/vPGs4RBNX110moyrz8/giphy.gif" align="center"/>
